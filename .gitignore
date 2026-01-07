@@ -1,0 +1,5 @@
+vsfs.img
+journal
+mkfs
+validator
+*.o
